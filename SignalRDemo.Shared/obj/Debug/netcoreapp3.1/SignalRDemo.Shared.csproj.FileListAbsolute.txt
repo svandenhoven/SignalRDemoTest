@@ -1,0 +1,9 @@
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\bin\Debug\netcoreapp3.1\SignalRDemo.Shared.deps.json
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\bin\Debug\netcoreapp3.1\SignalRDemo.Shared.dll
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\bin\Debug\netcoreapp3.1\SignalRDemo.Shared.pdb
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\obj\Debug\netcoreapp3.1\SignalRDemo.Shared.csprojAssemblyReference.cache
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\obj\Debug\netcoreapp3.1\SignalRDemo.Shared.AssemblyInfoInputs.cache
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\obj\Debug\netcoreapp3.1\SignalRDemo.Shared.AssemblyInfo.cs
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\obj\Debug\netcoreapp3.1\SignalRDemo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\obj\Debug\netcoreapp3.1\SignalRDemo.Shared.dll
+C:\Users\sandervd\source\repos\SignalRDemo.Shared\obj\Debug\netcoreapp3.1\SignalRDemo.Shared.pdb
