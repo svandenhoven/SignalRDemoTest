@@ -11,7 +11,7 @@ namespace SignalRDemo.Services
 
 
     {
-        public static async Task ProcessEvent(Message msg)
+        public async Task ProcessEvent(Message msg)
         {
             var hubConnection = new HubConnectionBuilder()
                 .WithUrl("https://localhost:44385/EventHub")

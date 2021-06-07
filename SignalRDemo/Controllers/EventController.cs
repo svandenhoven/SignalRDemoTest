@@ -14,13 +14,20 @@ namespace SignalRDemo.Controllers
     [ApiController]
     public class EventController : ControllerBase
     {
+        private EventService _eventService;
+
+        public EventController(EventService eventService)
+        {
+            _eventService = eventService;
+        }
+
         [HttpGet]
         public async Task<string> Get(string message)
         {
             if (message != null)
             {
                 var msg = new Message { Body = message };
-                await EventService.ProcessEvent(msg);
+                await _eventService.ProcessEvent(msg);
 
                 return "done";
             }
