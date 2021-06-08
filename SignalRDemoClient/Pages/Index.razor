@@ -1,0 +1,9 @@
+﻿@page "/"
+@inherits IndexBase
+
+<h1>@message</h1>
+
+@if(message.ToLower() == "true")
+{
+    <button style='visibility:@(message.ToLower() == "true"?"visible" : "hidden")'>Do Action</button>
+}

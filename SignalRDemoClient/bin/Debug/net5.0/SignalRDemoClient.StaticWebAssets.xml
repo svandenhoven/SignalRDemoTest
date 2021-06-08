@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\sandervd\source\repos\SignalRDemoTest\SignalRDemoClient\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\sandervd\source\repos\SignalRDemoTest\SignalRDemoClient\obj\Debug\net5.0\scopedcss\bundle\" />
+</StaticWebAssets>

@@ -19,7 +19,7 @@ namespace SignalRDemo.Services
                 .Build();
 
             await hubConnection.StartAsync();
-            await hubConnection.SendAsync("ProcessEvent", msg);
+            await hubConnection.InvokeAsync("ProcessEvent", msg);
         }
     }
 }
