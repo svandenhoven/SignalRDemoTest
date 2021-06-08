@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemo", "SignalRDemo.csproj", "{F8AAF5BA-138F-4072-B239-CBF2EE474C54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRDemo", "SignalRDemo.csproj", "{F8AAF5BA-138F-4072-B239-CBF2EE474C54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRHub", "..\SignalRHub\SignalRHub.csproj", "{AC2FA1A6-3530-47F6-A931-C9888962C835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRHub", "..\SignalRHub\SignalRHub.csproj", "{AC2FA1A6-3530-47F6-A931-C9888962C835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRDemo.Shared", "..\SignalRDemo.Shared\SignalRDemo.Shared.csproj", "{C4853AA6-DC26-4506-B0DD-4420F8FFD1FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRDemo.Shared", "..\SignalRDemo.Shared\SignalRDemo.Shared.csproj", "{C4853AA6-DC26-4506-B0DD-4420F8FFD1FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRDemoClient", "..\SignalRDemoClient\SignalRDemoClient.csproj", "{07B36FBB-9D6B-4CF9-9006-995554B9964F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{C4853AA6-DC26-4506-B0DD-4420F8FFD1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4853AA6-DC26-4506-B0DD-4420F8FFD1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4853AA6-DC26-4506-B0DD-4420F8FFD1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B36FBB-9D6B-4CF9-9006-995554B9964F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B36FBB-9D6B-4CF9-9006-995554B9964F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B36FBB-9D6B-4CF9-9006-995554B9964F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B36FBB-9D6B-4CF9-9006-995554B9964F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
